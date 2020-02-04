@@ -20,7 +20,7 @@ Web API: For this assignment we are using the API wrapper to extract the API dat
 
 Raw csv data file: Extracting the raw csv data file for the video games sales data. This file includes all sales related data for different regions of US and Europe. Sales of the games are present in a yearly based fashion. To validate the scraped data, we will provide a list of best-selling video list to the csv file extracted data frame, this will give us the global and north America sale of the bestselling video games.
 
-Histogram for Best-selling games against their north America sales.
+Histogram for Best-selling games against their north America sales
 
 
 ## Conceptual Schema of the Database
